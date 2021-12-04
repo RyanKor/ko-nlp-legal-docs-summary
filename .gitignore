@@ -1,0 +1,5 @@
+dataset.zip
+dataset/legal_docs_test.zip
+dataset/legal_docs_train.zip
+.idea
+.DS_Store
