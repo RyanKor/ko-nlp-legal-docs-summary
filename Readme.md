@@ -1,5 +1,7 @@
 # Legal document summary model natural language middle AI
 
+![image](https://user-images.githubusercontent.com/40455392/144733715-60432bb5-bb45-4fd0-a580-edf06265fba1.png)
+
 The task of extracting and summarizing the three sentences that best represent the original text of a Korean legal document
 
 - Project Link : [Click (Described as Korean)](https://aihub.or.kr/problem_contest/nipa-learning-platform/5)
