@@ -30,3 +30,20 @@ The task of extracting and summarizing the three sentences that best represent t
 - Training Model
 - Predict & Evaluate Model
 
+```
+Working Directory
+
+| - EDA.ipynb
+| - ko_nlp_legal_docs_torch.ipynb
+| - ko_nlp_legal_docs_train.ipynb
+| - Readme.md
+| - .gitignore
+| - base_code
+	| - [자연어]미들AI-법률문서요약 baseline (1).ipynb
+| - data
+	| - train.json
+	| - test.json
+	| - sample_submission.csv
+	| - prediction.csv
+```
+
